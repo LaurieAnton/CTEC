@@ -1,5 +1,5 @@
 ### CTEC Python Module Overview
-This module is an open-source multi-class probabalistic implementation of the Couple Traffic, Energy and Traffic (CTEC) model first introduced by Mladen Čičić et al., in 2022. This module was first used to assess the demand on Fast Charging Service Stations strategically placed along a highway route between the cities of Reykjavik and Akureyri in Iceland and is amenable for use in other settings. 
+This module is an open-source probabalistic implementation of the Couple Traffic, Energy and Traffic (CTEC) model first introduced by Mladen Čičić et al., in 2022, and expanded on in 2023 to include multiple vehicle classes. This module was first used to assess the demand on Fast Charging Service Stations strategically placed along a highway route between the cities of Reykjavik and Akureyri in Iceland and is amenable for use in other settings. 
 
 The files included are as follows:
 
