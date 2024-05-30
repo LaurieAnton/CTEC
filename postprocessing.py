@@ -1,4 +1,6 @@
 '''
+Additional functions used in post-processing of results after simulations were completed.
+
 Many functions assume multiple simulations were run, with CTEC objects stored in a dictionary.
 
 ===
